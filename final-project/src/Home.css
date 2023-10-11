@@ -1,0 +1,19 @@
+.landingpic{
+    width: 50%;
+    object-fit: cover;
+    margin-left: 200px;
+    
+}
+.cta{
+    width: 25%;
+    border-radius: 10px;
+    color: white;
+    
+}
+p{
+    font-family: lexend Deca;
+}
+h3{
+    font-family: space Grotesk;
+    font-weight: 700;
+}

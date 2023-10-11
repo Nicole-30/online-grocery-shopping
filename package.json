@@ -1,0 +1,19 @@
+{
+  "name": "finalproject-original",
+  "version": "1.0.0",
+  "description": "final project from datagilr cohort5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nicole",
+    "react",
+    "javascript"
+  ],
+  "author": "Akenji Nicole",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
